@@ -152,6 +152,4 @@ looking back on the instructions we can divide the things needed into ~9 bite si
 
 looking back on the instructions we can divide the things needed into ~9 bite sized chunks. Below is pseudo code for what each function will do.
 
-{number} ( {file the following code is used in} ) { description }
-
 ---
